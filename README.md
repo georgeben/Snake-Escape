@@ -1,5 +1,9 @@
 # Snake-Escape :snake:
 An exciting modification of the classic snake xenzia game using python's pygame module.
+
+![alt text](https://github.com/georgeben/Snake-Escape/blob/master/assets/screenshot.JPG "Game screen shot")
+
+
 This game brings new exciting features to the classic snake xenzia game like power ups, missions, enemies and preys. This takes 
 snake xenzia up to a whole new level!
 
